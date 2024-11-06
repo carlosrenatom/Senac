@@ -1,0 +1,4 @@
+.miniaturas img {
+    width: 1rem;   /* Define a largura das imagens */
+    height: auto;  /* Mantém a proporção da imagem */
+}
